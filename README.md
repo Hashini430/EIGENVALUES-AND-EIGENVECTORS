@@ -11,13 +11,14 @@ To write a python program to find the Eigenvalues and Eigen Vectors
 ### Step 4: End the program
 
 ## Program:
-#Program to find the inverse of a matrix.
+```#Program to find the inverse of a matrix.
 #Developed by:Hashini R 
 #RegisterNumber:24900728
 import numpy as np
 matrix=np.array([[6,2,3],[3,1,1],[10,3,4]])
 inverse=np.linalg.inv(matrix)
 print(inverse)
+```
 
 ## Output:
 ![Alt text](<Screenshot from 2024-12-06 20-33-10.png>)
