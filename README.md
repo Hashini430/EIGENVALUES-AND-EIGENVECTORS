@@ -20,6 +20,6 @@ inverse=np.linalg.inv(matrix)
 print(inverse)
 
 ## Output:
-![Alt text](<Screenshot from 2024-12-06 11-37-35.png>)
+![Alt text](<Screenshot from 2024-12-06 20-33-10.png>)
 ## Result:
 Thus the Eigenvalue and Eigenvector is successfully solved using python program
