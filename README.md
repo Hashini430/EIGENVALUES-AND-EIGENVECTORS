@@ -21,6 +21,7 @@ print(inverse)
 ```
 
 ## Output:
-![Alt text](<Screenshot from 2024-12-06 20-33-10.png>)
+![eigen](https://github.com/user-attachments/assets/96f2663e-a9b1-4c0d-8c7c-13681ff8f6ff)
+
 ## Result:
 Thus the Eigenvalue and Eigenvector is successfully solved using python program
